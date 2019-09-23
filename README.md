@@ -8,4 +8,3 @@ Features
 2. Multiple unique rooms which contains their own items.
 2. Mobility between rooms- Players and mobs are able to move back and forth freely between all rooms.
 3. Storage System- Players have an inventory that the items they pick up are placed in, players also have the ability to drop items from their inventory.
-4.
