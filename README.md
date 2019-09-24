@@ -1,7 +1,7 @@
 # MUD-GAME
 
 Description
-This project simulates a MUD(Multi-User Dungeon) game where the main objective is to get 100 points to win. PLayers move throughout various rooms picking up items, and killing mobs.
+This project simulates a MUD(Multi-User Dungeon) game where the main objective is to get 100 points to win. Players move throughout various rooms picking up items, and killing mobs.
 
 Features
 1. Single or two player function
